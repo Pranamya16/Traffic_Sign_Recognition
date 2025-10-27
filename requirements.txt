@@ -1,0 +1,10 @@
+# Requirements for Image Processing Deep Learning Project
+
+Python==3.9.21
+numpy==1.23.5
+matplotlib==3.7.2
+tensorflow==2.13.0
+opencv-python==4.7.0.72
+scikit-learn==1.2.2
+pandas==2.0.3
+pickle5==0.0.12
