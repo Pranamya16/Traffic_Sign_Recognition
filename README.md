@@ -66,14 +66,7 @@ Classification → Display Output → Driver Screen
 - Pooling layers for dimensionality reduction
 - Fully connected layers for classification
 - Softmax activation for multi-class output
-
-## 📈 Performance
-
-- **Accuracy**: [Your accuracy metric]%
-- **Processing Speed**: [FPS] frames per second
-- **Sign Categories**: [Number] different traffic sign classes
-- **Detection Range**: [Distance] meters
-
+- 
 ## 🎯 Key Benefits
 
 - ✅ Enhanced road safety
@@ -98,7 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [Pranamya16](https://github.com/Pranamya16/Traffic_Sign_Recognition), [Om Gaikwad](https://github.com/OMG0510)
+- **Your Name** - *Initial work* - [Pranamya16](https://github.com/Pranamya16/Traffic_Sign_Recognition), [Om Gaikwad](https://github.com/OMG0510), Diptesh Koli, Krisha Kharote
 
 ## 🙏 Acknowledgments
 
