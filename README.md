@@ -98,7 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [Pranamya16](https://github.com/Pranamya16/Traffic_Sign_Recognition)
+- **Your Name** - *Initial work* - [Pranamya16](https://github.com/Pranamya16/Traffic_Sign_Recognition), [Om Gaikwad](https://github.com/OMG0510)
 
 ## 🙏 Acknowledgments
 
